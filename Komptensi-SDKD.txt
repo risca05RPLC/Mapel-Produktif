@@ -3,4 +3,8 @@ Komunikasi Daring Sinkron
 Komunikasi Daring Asinkro
 -email
 github
+-Membuat akun
+-Membuat repository
+-Membuat file baru
+-Membuat commit
 git
