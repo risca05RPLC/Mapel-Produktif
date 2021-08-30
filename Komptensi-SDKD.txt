@@ -3,4 +3,7 @@ Komunikasi Daring Sinkron
 Komunikasi Daring Asinkro
 -email
 github
+- Membuat akun
+- Membuat repository(file baru dan commit)
 git
+-belum
