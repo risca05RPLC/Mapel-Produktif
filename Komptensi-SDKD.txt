@@ -1,4 +1,4 @@
 Komunikasi Daring Sinkron
-Komunikasi Daring Asinkron
-Github
-Git
+-line
+Komunikasi Daring Asinkro
+-email
