@@ -4,5 +4,6 @@ Komunikasi Daring Asinkro
 -email
 github
 - Membuat akun
-- Membuat repository
+- Membuat repository(file baru dan commit)
 git
+-belum
